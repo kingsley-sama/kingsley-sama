@@ -12,7 +12,7 @@ stats](https://github-readme-stats.vercel.app/api/wakatime?username=kingsleySama
   <div align="center" id="badges">
     <h3 align="center">Contact me</h3>
     <a href="mailto:kngsley2018@gmail.com">
-      <img src="https://img.shields.io/badge/kngsley2018@gmail.com?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+      <img src="https://img.shields.io/badge/-kngsley2018@gmail.com?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://kingsleyokpo.tech">
       <img src="https://img.shields.io/badge/-KingsleyOkpo-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -24,7 +24,7 @@ stats](https://github-readme-stats.vercel.app/api/wakatime?username=kingsleySama
       <img src="https://img.shields.io/badge/-KingsleyOkpo-brightgreen?style=for-the-badge&logo=habr&logoColor=white" alt="Habar Badge"/>
     </a>
   </div>  
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=kingsley-sama&label=Profile%20Visits&style=for-the-badge" />
+  <img alt="Visitors" src="https://kingsleyokpo.tech/ghpvc/?username=kingsley-sama&label=Profile%20Visits&style=for-the-badge" />
   <h1>
     Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -45,7 +45,7 @@ stats](https://github-readme-stats.vercel.app/api/wakatime?username=kingsleySama
   cryptography I also explore The maths behind trade bots and how they can make
   more money over time. I also Love exploring LLMs.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-AlekGurov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AlekGurov)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-KingsleyOkpo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AlekGurov)
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -78,4 +78,4 @@ stats](https://github-readme-stats.vercel.app/api/wakatime?username=kingsleySama
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [shamhi](https://github.com/kingsley-sama)
+Credit: [Kingsley](https://github.com/kingsley-sama)
