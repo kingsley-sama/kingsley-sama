@@ -12,19 +12,19 @@ stats](https://github-readme-stats.vercel.app/api/wakatime?username=kingsleySama
   <div align="center" id="badges">
     <h3 align="center">Contact me</h3>
     <a href="mailto:kngsley2018@gmail.com">
-      <img src="https://img.shields.io/badge/-alek.sandr2020%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+      <img src="https://img.shields.io/badge/kngsley2018@gmail.com?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://kingsleyokpo.tech">
-      <img src="https://img.shields.io/badge/-AlekGurov-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/-KingsleyOkpo-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="https://github.com/kingsle-sama">
-      <img src="https://img.shields.io/badge/-aleksandrgurov-yellow?style=for-the-badge&logo=kwork&logoColor=white" alt="Kwork Badge"/>
+      <img src="https://img.shields.io/badge/-KingsleyOkpo-yellow?style=for-the-badge&logo=kwork&logoColor=white" alt="Kwork Badge"/>
     </a>
      <a href="https://">
-      <img src="https://img.shields.io/badge/-aleksandrgurov-brightgreen?style=for-the-badge&logo=habr&logoColor=white" alt="Habar Badge"/>
+      <img src="https://img.shields.io/badge/-KingsleyOkpo-brightgreen?style=for-the-badge&logo=habr&logoColor=white" alt="Habar Badge"/>
     </a>
   </div>  
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=shamhi&label=Profile%20Visits&style=for-the-badge" />
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=kingsley-sama&label=Profile%20Visits&style=for-the-badge" />
   <h1>
     Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
