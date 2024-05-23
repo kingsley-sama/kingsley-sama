@@ -11,16 +11,16 @@ stats](https://github-readme-stats.vercel.app/api/wakatime?username=kingsleySama
   </div>
   <div align="center" id="badges">
     <h3 align="center">Contact me</h3>
-    <a href="mailto:alek.sandr2020@mail.ru">
+    <a href="mailto:kngsley2018@gmail.com">
       <img src="https://img.shields.io/badge/-alek.sandr2020%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://t.me/AlekGurov">
+    <a href="https://kingsleyokpo.tech">
       <img src="https://img.shields.io/badge/-AlekGurov-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="https://kwork.ru/user/shamhi">
+    <a href="https://github.com/kingsle-sama">
       <img src="https://img.shields.io/badge/-aleksandrgurov-yellow?style=for-the-badge&logo=kwork&logoColor=white" alt="Kwork Badge"/>
     </a>
-     <a href="https://freelance.habr.com/freelancers/ShamHi">
+     <a href="https://">
       <img src="https://img.shields.io/badge/-aleksandrgurov-brightgreen?style=for-the-badge&logo=habr&logoColor=white" alt="Habar Badge"/>
     </a>
   </div>  
@@ -36,12 +36,14 @@ stats](https://github-readme-stats.vercel.app/api/wakatime?username=kingsleySama
 
 
 ### :woman_technologist: About Me :
- I am a Fullstak Developer from Russia <br>
+ I am a Fullstak Software Developer from Nigeria <br>
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time i explore the use of number theory In encrytion and
+  cryptography I also explore The maths behind trade bots and how they can make
+  more money over time. I also Love exploring LLMs.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-AlekGurov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AlekGurov)
 
