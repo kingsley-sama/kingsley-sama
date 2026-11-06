@@ -1,6 +1,7 @@
 # Hi, I'm Kingsley Okpo 👋
 
 **Software engineer · AI engineer · AI code evaluator**
+
 I build production systems with AI coding agents, and I evaluate whether those agents think like strong engineers.
 
 📍 Lagos, Nigeria (remote, UTC+1) · ✉️ [kngsley2018@gmail.com](mailto:kngsley2018@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/kingsley-okpo/) · 🌐 [kingsleyokpo.tech](https://kingsleyokpo.tech)
@@ -16,6 +17,7 @@ I build production systems with AI coding agents, and I evaluate whether those a
 ### How I judge an agent's work
 
 > Does the plan make sense? Does the explanation help, or just repeat the code?
+>
 > Does it raise the risks a strong engineer would raise? Would I trust it in my own codebase?
 
 ---
